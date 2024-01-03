@@ -1,0 +1,24 @@
+Currency Coverter Project!
+
+## Convert currencies before you go on holiday, or if you're interested in the financial market  
+
+This is a simple and efficient currency converter designed for practical use.
+
+## Features
+## Real-Time Exchange Rates
+ Get the latest exchange rates for accurate currency conversion.
+
+## Multi-Currency Support
+
+Convert between various currencies to facilitate seamless financial transactions.
+## Usage
+Select the source currency from the dropdown menu.
+Enter the amount you want to convert.
+Choose the target currency from the second dropdown.
+The converted amount will be displayed instantly.
+
+
+## Technologies Used
+HTML
+CSS
+JavaScript
